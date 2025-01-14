@@ -1,0 +1,11 @@
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\bin\Debug\childprocess.exe.config
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\bin\Debug\childprocess.exe
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\bin\Debug\childprocess.pdb
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.csproj.AssemblyReference.cache
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.csproj.SuggestedBindingRedirects.cache
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.Form1.resources
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.Properties.Resources.resources
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.csproj.GenerateResource.cache
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.csproj.CoreCompileInputs.cache
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.exe
+D:\BV312\IliaKataev\WindowsFormsApp1\childprocess\obj\Debug\childprocess.pdb
