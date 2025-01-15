@@ -1,0 +1,8 @@
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\bin\Debug\15.01.2025_Theory.exe.config
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\bin\Debug\15.01.2025_Theory.exe
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\bin\Debug\15.01.2025_Theory.pdb
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\obj\Debug\15.01.2025_Theory.csproj.AssemblyReference.cache
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\obj\Debug\15.01.2025_Theory.csproj.SuggestedBindingRedirects.cache
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\obj\Debug\15.01.2025_Theory.csproj.CoreCompileInputs.cache
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\obj\Debug\15.01.2025_Theory.exe
+D:\BV312\IliaKataev\classwork\15.01.2025_Theory\obj\Debug\15.01.2025_Theory.pdb
