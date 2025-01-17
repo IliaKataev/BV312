@@ -1,0 +1,8 @@
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\bin\Debug\Practice17_01.exe.config
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\bin\Debug\Practice17_01.exe
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\bin\Debug\Practice17_01.pdb
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\obj\Debug\Practice17_01.csproj.AssemblyReference.cache
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\obj\Debug\Practice17_01.csproj.SuggestedBindingRedirects.cache
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\obj\Debug\Practice17_01.csproj.CoreCompileInputs.cache
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\obj\Debug\Practice17_01.exe
+D:\BV312\IliaKataev\Practice17_01\Practice17_01\obj\Debug\Practice17_01.pdb

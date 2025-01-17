@@ -1,0 +1,16 @@
+[17.01.2025 20:44:54] Name: T-bank, Money: 100000, Percent: 100
+[17.01.2025 20:44:54] Name: T-bank, Money: 100000, Percent: 100
+[17.01.2025 20:44:54] Name: T-bank, Money: 100000, Percent: 100
+[17.01.2025 20:47:49] Name: S-bank, Money: 200000, Percent: 500
+[17.01.2025 20:47:50] Name: S-bank, Money: 200000, Percent: 500
+[17.01.2025 20:47:51] Name: S-bank, Money: 200000, Percent: 500
+[17.01.2025 20:48:45] Name: R-bank, Money: 10000, Percent: 15
+[17.01.2025 20:49:13] Name: P-bank, Money: 100, Percent: 15
+[17.01.2025 20:49:13] Name: P-bank, Money: 100, Percent: 15[17.01.2025 20:50:56] Name: P-bank, Money: 100, Percent: 15
+[17.01.2025 20:50:56] Name: P-bank, Money: 100, Percent: 15
+
+[17.01.2025 20:52:11] Name: P-bank, Money: 10000, Percent: 15
+[17.01.2025 20:52:11] Name: P-bank, Money: 100, Percent: 15
+[17.01.2025 20:52:52] Name: Alpha, Money: 10000, Percent: 15
+[17.01.2025 20:52:52] Name: Alpha, Money: 5, Percent: 15
+[17.01.2025 20:52:52] Name: Alpha, Money: 5, Percent: 5

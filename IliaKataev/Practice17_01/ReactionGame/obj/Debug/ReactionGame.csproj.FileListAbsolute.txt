@@ -1,0 +1,8 @@
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\bin\Debug\ReactionGame.exe.config
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\bin\Debug\ReactionGame.exe
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\bin\Debug\ReactionGame.pdb
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\obj\Debug\ReactionGame.csproj.AssemblyReference.cache
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\obj\Debug\ReactionGame.csproj.SuggestedBindingRedirects.cache
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\obj\Debug\ReactionGame.csproj.CoreCompileInputs.cache
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\obj\Debug\ReactionGame.exe
+D:\BV312\IliaKataev\Practice17_01\ReactionGame\obj\Debug\ReactionGame.pdb
